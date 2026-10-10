@@ -1,0 +1,10 @@
+failure_type,failure_reason,fails,recovered_pct,lost_pct
+Business,Insufficient funds,17234,11.9,88.1
+Business,Wrong UPI PIN,8883,67.9,32.1
+Business,Invalid / inactive beneficiary,4537,23.1,76.9
+Business,Daily limit exceeded,3766,7.3,92.7
+Business,Declined by bank (risk / other),3006,18.2,81.8
+Technical,Remitter bank server down / timeout,516,55.8,44.2
+Technical,Network connectivity error,267,56.6,43.4
+Technical,PSP / app technical error,241,47.7,52.3
+Technical,NPCI / UPI switch timeout,227,62.6,37.4
